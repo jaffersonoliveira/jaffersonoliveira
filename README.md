@@ -95,5 +95,3 @@ Nas minhas implementações procuro sempre construir sistemas robustos e estáve
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
